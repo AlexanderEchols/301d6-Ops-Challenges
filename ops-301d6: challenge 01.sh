@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script: Ops 301 Challenge 02: Copy & Append
+# Script: Ops 301 Challenge 01: Copy & Append
 # Author: Alexander Echols
 # Date of Creation 15 Mar 2023
 # Date of last revision: 15 Mar 2023
