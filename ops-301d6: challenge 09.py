@@ -3,7 +3,8 @@
 # Author: Alexander Echols.    
 # Date of creation: 24 Mar 2023                
 # Date of latest revision: 25 Mar 2023.      
-# Purpose: Write a Python script that uses logical statements to create a guessing game.
+# Purpose: Write a Python script that uses handling commands to create a new .txt file,
+# adds 3 lines, prints the first one, then deletes the file all together.
 
 # # Main
 
